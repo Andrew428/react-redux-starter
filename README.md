@@ -1,2 +1,6 @@
-# react-redux-starter
-Boilerplate code for react-redux aps
+# React Redux Boilerplate Starter Code
+
+### Run App:
+#### yarn
+#### yarn start
+
